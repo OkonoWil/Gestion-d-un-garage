@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ed3bf11-2546-46b6-844a-2c83946f862d": {
+      "ProjectGuid": "5ed3bf11-2546-46b6-844a-2c83946f862d",
+      "DisplayName": "Garage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
