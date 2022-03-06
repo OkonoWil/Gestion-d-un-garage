@@ -16,7 +16,7 @@ namespace Garage
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Cars());
+            Application.Run(new Employees());
         }
     }
 }
